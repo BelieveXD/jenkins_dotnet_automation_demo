@@ -1,6 +1,11 @@
 /home/azureuser/ProductAPI/out/ProductAPI
+/home/azureuser/ProductAPI/out/out/web.config
 /home/azureuser/ProductAPI/out/appsettings.Development.json
 /home/azureuser/ProductAPI/out/appsettings.json
+/home/azureuser/ProductAPI/out/out/appsettings.Development.json
+/home/azureuser/ProductAPI/out/out/appsettings.json
+/home/azureuser/ProductAPI/out/out/ProductAPI.deps.json
+/home/azureuser/ProductAPI/out/out/ProductAPI.runtimeconfig.json
 /home/azureuser/ProductAPI/out/ProductAPI.dll
 /home/azureuser/ProductAPI/out/ProductAPI.deps.json
 /home/azureuser/ProductAPI/out/ProductAPI.runtimeconfig.json

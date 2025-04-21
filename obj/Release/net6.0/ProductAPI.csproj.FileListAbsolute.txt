@@ -25,3 +25,8 @@
 /home/azureuser/ProductAPI/obj/Release/net6.0/ProductAPI.pdb
 /home/azureuser/ProductAPI/obj/Release/net6.0/ProductAPI.genruntimeconfig.cache
 /home/azureuser/ProductAPI/obj/Release/net6.0/ref/ProductAPI.dll
+/home/azureuser/ProductAPI/bin/Release/net6.0/out/web.config
+/home/azureuser/ProductAPI/bin/Release/net6.0/out/appsettings.Development.json
+/home/azureuser/ProductAPI/bin/Release/net6.0/out/appsettings.json
+/home/azureuser/ProductAPI/bin/Release/net6.0/out/ProductAPI.deps.json
+/home/azureuser/ProductAPI/bin/Release/net6.0/out/ProductAPI.runtimeconfig.json
