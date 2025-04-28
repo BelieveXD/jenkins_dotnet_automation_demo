@@ -15,7 +15,8 @@ public class ProductService : IProductService
             new Product { Id = 4, Name = "Printer-Monitor", Price = 259.99M },
             new Product { Id = 5, Name = "Printer-Monitor", Price = 259.99M },
             new Product { Id = 6, Name = "Modem", Price = 25.99M },
-            new Product { Id = 7, Name = "Joystick", Price = 29.99M }
+            new Product { Id = 7, Name = "Joystick", Price = 29.99M },
+            new Product { Id = 8, Name = "Controller", Price = 21.99M }
         };
     }
 }
